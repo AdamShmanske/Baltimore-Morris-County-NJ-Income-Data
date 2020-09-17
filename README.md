@@ -2,9 +2,9 @@
 Comparing High and Low Income Levels in Baltimore City and Morris County, NJ
 
 ## Background
-Baltimore City and Morristown, New Jersey (a suburb located just outside of NYC) have incredibly different economics situations.  In northern New Jersey, the median income is relatively high and a very low percentage of residents are below the poverty level.  However, in Baltimore City the situation is very different.  Poverty is rampant, and the median income is low.
+Baltimore City and Morristown, New Jersey (a suburb located just outside of NYC) have incredibly different economic situations.  In northern New Jersey, the median income is relatively high and a very low percentage of residents are below the poverty level.  However, in Baltimore City the situation is very different.  Poverty is rampant, and the median income is low.
 
-While it is easy to explain in numerical terms the differences between Morristown and Baltimore, fully comprehending the data and its implications is a much more difficult task.  This project aims to process high and low income (marked by the 25th and 75th percentile) values between New Jersey and Baltimore and present findings in a easily comprehensible visual.  Using Opportunity Atlas, income data from numerous towns throughout the Morristown and Baltimore area were used to create this graphical representation of income data.
+While it is easy to explain in numerical terms the differences between Morristown and Baltimore, fully comprehending the data and its implications is a much more difficult task.  This project aims to process high and low income (marked by the 25th and 75th percentile) values between New Jersey and Baltimore and present findings in an easily comprehensible visual.  Using Opportunity Atlas, income data from numerous towns throughout the Morristown and Baltimore area were used to create this graphical representation of income data.
 
 ## Business Question 
 How do high and low income levels between Baltimore and Morristown, NJ compare?
@@ -44,4 +44,4 @@ When comparing
 These results can be used to truly illustrate the wealth differences between even the lowest quartile of NJ residents and the highest quartile of Baltimore residents.  This illustrated wealth difference can be used for a wide range of purposes. 
 
 ## Excel Directions
-- [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analyis performed in this project.
+- [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analysis performed in this project.
