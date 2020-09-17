@@ -28,10 +28,10 @@ It is clear from both of the graphs posted below that NJ generally has a large a
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/High%20Income%20Comparison.png)
 
-### How large is the income discrepency between NJ and Baltimore?
+### How large is the income discrepancy between NJ and Baltimore?
 
 ### Comparison between Low Income NJ and High Income Baltimore
-
+The graph below is the most clear representation of how drastic this income discrepancy truly is between NJ and Baltimore.  In this graph 39 low income NJ datapoints are displayed alongside 39 Baltimore high income datapoints.  The previous graphs above showed that NJ largely has an advantage over Baltimore in terms of income.  However, this graph shows that even when comparing the lower quartile of NJ datapoints and the upper quartile of Baltimore datapoints, very few Baltimore values are greater than NJ values.  This is surprisng
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20NJ%20High%20Baltimore%20Graph.png)
 
