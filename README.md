@@ -12,8 +12,8 @@ How do high and low income levels between Baltimore and Morristown compare?
 ## Data Question - Open Data
 Data source: Opportunity Atlas
 
-- [Morristown] (: Downloaded all available open data on income levels in Morristown and surrounding towns.  Separated this data collection into high income raw data and low income raw data from towns for analysis.
-- [Baltimore] (: Downloaded all available open data on income levels in Morristown and surrounding towns.  Separated this data collection into high income raw data and low income raw data from towns for analysis.  Further separated data by sorting by "Baltimore" to remove any unwanted neighboring towns from the city data.
+- [Morristown] (https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data): Downloaded all available open data on income levels in Morristown and surrounding towns.  Separated this data collection into high income raw data and low income raw data from towns for analysis.
+- [Baltimore] (https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data): Downloaded all available open data on income levels in Morristown and surrounding towns.  Separated this data collection into high income raw data and low income raw data from towns for analysis.  Further separated data by sorting by "Baltimore" to remove any unwanted neighboring towns from the city data.
 - High income in this data set is defined by the 75th percentile of income.
 - Low income in this data set is defined by the 25th percentile of income.
 
