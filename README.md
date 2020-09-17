@@ -7,7 +7,7 @@ Baltimore City and Morristown, New Jersey (a suburb located just outside of NYC)
 While it is easy to explain in numerical terms the differences between Morristown and Baltimore, fully comprehending the data and its implications is a much more difficult task.  This project aims to process high and low income (marked by the 25th and 75th percentile) values between New Jersey and Baltimore and present findings in a easily comprehensible visual.  Using Opportunity Atlas, income data from numerous towns throughout the Morristown and Baltimore area were used to create this graphical representation of income data.
 
 ## Business Question 
-How do high and low income levels between Baltimore and Morristown compare?
+How do high and low income levels between Baltimore and Morristown, NJ compare?
 
 ## Data Question - Open Data
 Data source: Opportunity Atlas
@@ -31,11 +31,16 @@ It is clear from both of the graphs posted below that NJ generally has a large a
 ### How large is the income discrepancy between NJ and Baltimore?
 
 ### Comparison between Low Income NJ and High Income Baltimore
-The graph below is the most clear representation of how drastic this income discrepancy truly is between NJ and Baltimore.  In this graph 39 low income NJ datapoints are displayed alongside 39 Baltimore high income datapoints.  The previous graphs above showed that NJ largely has an advantage over Baltimore in terms of income.  However, this graph shows that even when comparing the lower quartile of NJ datapoints and the upper quartile of Baltimore datapoints, very few Baltimore values are greater than NJ values.  This is surprisng
+The graph below is the most clear representation of how drastic this income discrepancy truly is between NJ and Baltimore.  In this graph 39 low income NJ datapoints are displayed alongside 39 Baltimore high income datapoints.  The previous graphs above showed that NJ largely has an advantage over Baltimore in terms of income.  However, this graph shows that even when comparing the lower quartile of NJ datapoints and the upper quartile of Baltimore datapoints, very few Baltimore values are greater than NJ values.  This is surprising and shows the true wealth difference between these communities.
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20NJ%20High%20Baltimore%20Graph.png)
 
 ## Business Answer
+When comparing
+- High incomes in NJ and Baltimore- NJ has a much greater overall value
+- Low incomes in NJ and Baltimore- NJ has a much greater overall value
+- Low incomes in NJ and high incomes in Baltimore- On average, NJ still has a greater overall value
+These results can be used to truly illustrate the wealth differences between even the lowest quartile of NJ residents and the highest quartile of Baltimore residents.  This illustrated wealth difference can be used for a wide range of purposes. 
 
 ## Excel Directions
 - [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analyis performed in this project.
