@@ -35,4 +35,4 @@ fkljsdalkfjalsdfjlsfj
 ## Business Answer
 
 ## Excel Directions
-- [Excel Directions] 
+- [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analyis performed in this project.
