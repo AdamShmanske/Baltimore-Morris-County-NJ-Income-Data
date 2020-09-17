@@ -17,7 +17,7 @@ Data source: Opportunity Atlas
 - High income in this data set is defined by the 75th percentile of income.
 - Low income in this data set is defined by the 25th percentile of income.
 
-## Data Question - Analysis
+## Data Question and Graphical Answer
 
 ### How much do NJ and Baltimore high and low income values differ?
 
@@ -31,11 +31,9 @@ It is clear from both of the graphs posted below that NJ generally has a large a
 ### How large is the income discrepency between NJ and Baltimore?
 
 ### Comparison between Low Income NJ and High Income Baltimore
-fkljsdalkfjalsdfjlsfj
+
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20NJ%20High%20Baltimore%20Graph.png)
-
-## Data Answer
 
 ## Business Answer
 
