@@ -1,4 +1,4 @@
-# Change-Name-Later
+# Comparing Income Levels in Baltimore City and Morris County, NJ
 
 ## Background
 
