@@ -19,14 +19,14 @@ Data source: Opportunity Atlas
 
 ## Data Question - Analysis
 
-# Comparison between Low and High Income in NJ and Baltimore
+### Comparison between Low and High Income in NJ and Baltimore
 here werw erasdfn sdaflksfj
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20Income%20Comparison.png)
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/High%20Income%20Comparison.png)
 
 
-# Comparison between Low Income NJ and High Income Baltimore
+### Comparison between Low Income NJ and High Income Baltimore
 fkljsdalkfjalsdfjlsfj
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20NJ%20High%20Baltimore%20Graph.png)
 
