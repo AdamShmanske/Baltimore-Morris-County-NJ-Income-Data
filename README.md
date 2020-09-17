@@ -19,15 +19,20 @@ Data source: Opportunity Atlas
 
 ## Data Question - Analysis
 
+### How much do NJ and Baltimore high and low income values differ?
+
 ### Comparison between Low and High Income in NJ and Baltimore
-here werw erasdfn sdaflksfj
+It is clear from both of the graphs posted below that NJ generally has a large advantage over Baltimore in both high and low incomes.  Aside from a few noticeable outliers from Baltimore, nearly all NJ data points were greater than all Baltimore data points.  This is expected, as the median income for NJ is greater than that of Baltimore.  There were less NJ towns as data points to analyze, but the general trend is still very clear that NJ has a greater income in almost all cases than in Baltimore.
+
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20Income%20Comparison.png)
 
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/High%20Income%20Comparison.png)
 
+### How large is the income discrepency between NJ and Baltimore?
 
 ### Comparison between Low Income NJ and High Income Baltimore
 fkljsdalkfjalsdfjlsfj
+
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20NJ%20High%20Baltimore%20Graph.png)
 
 ## Data Answer
