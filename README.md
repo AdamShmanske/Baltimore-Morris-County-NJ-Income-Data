@@ -21,6 +21,9 @@ Data source: Opportunity Atlas
 
 https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Low%20Income%20Comparison.png     low
 
+https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/High%20Income%20Comparison.png     high
+
+
 
 ## Data Answer
 
