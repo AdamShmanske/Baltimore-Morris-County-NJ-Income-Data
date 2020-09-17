@@ -41,7 +41,7 @@ When comparing
 - Low incomes in NJ and Baltimore- NJ has a much greater overall value.
 - Low incomes in NJ and high incomes in Baltimore- On average, NJ still has a greater overall value.
 
-These results can be used to truly illustrate the wealth differences between even the lowest quartile of NJ residents and the highest quartile of Baltimore residents.  This graphically represented wealth difference can be used for a wide range of purposes. 
+These results can be used to truly illustrate the wealth differences between even the lowest quartile of NJ residents and the highest quartile of Baltimore residents.  This graphically represented wealth difference can be used for a wide range of purposes.  An example of how this type of data analysis could be useful would be in the decision making for government agencies. When deciding how to allocate government funds for social programs, this representation that even high earning Baltimore residents are generally worse off than low earning NJ residents is important information to utilize.
 
 ## Excel Directions
 - [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analysis performed in this project.
