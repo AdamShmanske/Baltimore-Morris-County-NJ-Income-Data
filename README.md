@@ -37,9 +37,10 @@ The graph below is the most clear representation of how drastic this income disc
 
 ## Business Answer
 When comparing
-- High incomes in NJ and Baltimore- NJ has a much greater overall value
-- Low incomes in NJ and Baltimore- NJ has a much greater overall value
-- Low incomes in NJ and high incomes in Baltimore- On average, NJ still has a greater overall value
+- High incomes in NJ and Baltimore- NJ has a much greater overall value.
+- Low incomes in NJ and Baltimore- NJ has a much greater overall value.
+- Low incomes in NJ and high incomes in Baltimore- On average, NJ still has a greater overall value.
+
 These results can be used to truly illustrate the wealth differences between even the lowest quartile of NJ residents and the highest quartile of Baltimore residents.  This illustrated wealth difference can be used for a wide range of purposes. 
 
 ## Excel Directions
