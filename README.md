@@ -49,7 +49,14 @@ These results can be used to truly illustrate the wealth differences between eve
 
 
 ## Python Visualizations
-
+### 25th Percentile Baltimore Boxplot
+![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/25th%20Percentile%20Incomes%20Baltimore.png)
+### 75th Percentile Baltimore Boxplot
+![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/75th%20Percentile%20Incomes%20Baltimore.png)
+### 25th Percentile NJ Boxplot
+![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/25th%20Percentile%20Incomes%20NJ.png)
+### 75th Percentile NJ Boxplot
+![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/75th%20Percentile%20Incomes%20NJ.png)
 
 ## Excel Directions
 - [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analysis performed in this project.
