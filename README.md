@@ -43,6 +43,9 @@ When comparing
 
 These results can be used to truly illustrate the wealth differences between even the lowest quartile of NJ residents and the highest quartile of Baltimore residents.  This graphically represented wealth difference can be used for a wide range of purposes.  An example of how this type of data analysis could be useful would be in the decision making for government agencies. When deciding how to allocate government funds for social programs, this representation that even high earning Baltimore residents are generally worse off than low earning NJ residents is important information to utilize.
 
+## Excel Directions
+- [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analysis performed in this project.
+
 # Python Analysis
 Using Python, further data analysis was performed on the 4 data sources: NJ 25th Percentile Income, NJ 75th Percentile Income, Baltimore 25th Percentile Income, and Baltimore 75th Percentile Income. The initial data visualization created using excel was not sufficient enough to compare the overall trends of the data, as these visualizations compared all of the neighborhoods on the same plot.  With Python, a may useful boxplot representation of the data was created in order to compare the general trends of the data, and eliminate the confusion of representing individual neighborhood data.  These graphs allow us to compare the range, quartiles, and any outliers for our 4 data sources on the same scale of $15,000 to $80,000.  Comparing any of these graphs side by side creates allows the data to be easily understood and analyzed with just a quick glance.
 
@@ -61,5 +64,3 @@ For the 25th Percentile of Incomes from NJ neighborhoods, the minimum average in
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/75th%20Percentile%20Incomes%20NJ.png)
 For the 75th Percentile of Incomes from NJ neighborhoods, there was one outlier for the minimum average income at $51,344.  The lower fence was $57,946, and the median was $64,604.  The maximum of the 75th Percentile Incomes in NJ was $71,655.
 
-## Excel Directions
-- [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analysis performed in this project.
