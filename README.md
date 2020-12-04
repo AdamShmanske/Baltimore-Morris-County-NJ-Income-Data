@@ -55,8 +55,11 @@ For the 25th Percentile of Incomes from Baltimore neighborhoods, the minimum ave
 For the 75th Percentile of Incomes from Baltimore neighborhoods, the minimum average income was $17,305.  The median income of these neighborhoods was $38,520, far greater than the median income of the 25th percentile dataset.  The maximum income was $72,321, and there were no outliers in this data set
 ### 25th Percentile NJ Boxplot
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/25th%20Percentile%20Incomes%20NJ.png)
+For the 25th Percentile of Incomes from NJ neighborhoods, the minimum average income was $34,487.  The median income of these neighborhoods was $46,582, and the upper income fence was $61,023.  There was a singular outlier in this dataset, at $64,276.
+
 ### 75th Percentile NJ Boxplot
 ![alt text](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/75th%20Percentile%20Incomes%20NJ.png)
+For the 75th Percentile of Incomes from NJ neighborhoods, there was one outlier for the minimum average income at $51,344.  The lower fence was $57,946, and the median was $64,604.  The maximum of the 75th Percentile Incomes in NJ was $71,655.
 
 ## Excel Directions
 - [Excel Directions](https://github.com/AdamShmanske/Baltimore-Morris-County-NJ-Income-Data/blob/master/Income%20Comparison%20Baltimore%20Data%20Excel%20Instructions.xls) for this project are embedded within this link.  This provides a step-by-step guide on the data analysis performed in this project.
